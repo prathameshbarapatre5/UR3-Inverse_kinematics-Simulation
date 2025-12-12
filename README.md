@@ -3,8 +3,6 @@
 **Author:** Prathmesh Barapatre  
 **Course:** Robot Mechanics and Control (Project 2)
 
-![UR3 Simulation](assets/code.png)
-
 ## 1. Overview
 This project simulates a **UR3 6-DOF robot arm** performing task-space trajectories (Square, Circle) and interactive manual control using a custom **Newton-Raphson Inverse Kinematics (IK)** solver. The simulation is implemented entirely in Python from scratch, utilizing **NumPy** for matrix operations and **Matplotlib** for 3D visualization.
 
